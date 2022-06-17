@@ -17,6 +17,7 @@
 * Создание словаря, запоминание уже внесенных дел и подсказки при внесении текста.
 * Возможность отметить выполненные дела с помощью чекбокса.
 * Счетчик выполненных и суммарного количества дел в заметке.
+* Возможность поделиться списком.
 
 ## Технологический стек
 * MVVM
@@ -33,7 +34,11 @@
 * Kotlin
 
 ## Скриншоты
-<img src="Screenshot_20220617_104715.png" width="440" height="810"/>        <img src="Screenshot_20220617_104750.png" width="440" height="810"/>  
-<img src="Screenshot_20220617_104804.png" width="440" height="810"/>        <img src="Screenshot_20220617_104826.png" width="440" height="810"/> 
-<img src="Screenshot_20220617_104911.png" width="440" height="810"/>        <img src="Screenshot_20220617_111057.png" width="440" height="810"/> 
+<img src="Screenshot_20220617_152718.png" width="440" height="810"/>        <img src="Screenshot_20220617_152742.png" width="440" height="810"/>  
+<img src="Screenshot_20220617_152837.png" width="440" height="810"/>        <img src="Screenshot_20220617_152901.png" width="440" height="810"/> 
+<img src="Screenshot_20220617_152953.png" width="440" height="810"/>        <img src="Screenshot_20220617_153046.png" width="440" height="810"/> 
+<img src="Screenshot_20220617_153106.png" width="440" height="810"/>        <img src="Screenshot_20220617_153128.png" width="440" height="810"/> 
+<img src="Screenshot_20220617_153138.png" width="440" height="810"/>        <img src="Screenshot_20220617_153157.png" width="440" height="810"/> 
+<img src="Screenshot_20220617_153220.png" width="440" height="810"/>        <img src="Screenshot_20220617_153236.png" width="440" height="810"/> 
+<img src="Screenshot_20220617_153446.png" width="440" height="810"/>        <img src="Screenshot_20220617_153459.png" width="440" height="810"/> 
 

@@ -33,9 +33,7 @@
 * Kotlin
 
 ## Скриншоты
-![Настройки приложения](Screenshot_20220617_104715.png)  
-![Создание заметок](Screenshot_20220617_104750.png)
-![Изменение цвета текста в заметке](Screenshot_20220617_104804.png)
-![Создание списка дел](Screenshot_20220617_104826.png)
-![Возможность отмечать выполненные дела](Screenshot_20220617_104911.png)
-![Список дел](Screenshot_20220617_111057.png)
+<img src="Screenshot_20220617_104715.png" width="440" height="810"/>        <img src="Screenshot_20220617_104750.png" width="440" height="810"/>  
+<img src="Screenshot_20220617_104804.png" width="440" height="810"/>        <img src="Screenshot_20220617_104826.png" width="440" height="810"/> 
+<img src="Screenshot_20220617_104911.png" width="440" height="810"/>        <img src="Screenshot_20220617_111057.png" width="440" height="810"/> 
+
